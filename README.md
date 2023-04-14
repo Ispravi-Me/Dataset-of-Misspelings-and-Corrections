@@ -2,7 +2,7 @@
 
 ## Short description
 
-This dataset contains 33,382,330 entries of the form "error word → correct word" collected from 900,000 users of Croatian Academic Spelling Checker [Ispravi.me] (https://ispravi.me/) between December 2008 and March 2023. 
+This dataset contains 33,382,330 entries of the form "error word → correct word" collected from 900,000 users of Croatian Academic Spelling Checker [Ispravi.me](https://ispravi.me/) between December 2008 and March 2023. 
 
 We identified 5,584,226 unique "error word → correct word" pairs. In total, 5,296,266 unique words were misspelled, which we corrected to a total of 1,530,329 words.
 
