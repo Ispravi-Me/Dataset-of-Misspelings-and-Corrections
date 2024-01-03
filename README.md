@@ -2,9 +2,9 @@
 
 ## Short description
 
-This dataset contains 33,382,330 entries of the form "error word → correct word" collected from 900,000 users of Croatian Academic Spelling Checker [Ispravi.me](https://ispravi.me/) between December 2008 and March 2023. 
+This dataset contains more than 40 million entries of the form "error word → correct word" collected from 900,000 users of Croatian Academic Spelling Checker [Ispravi.me](https://ispravi.me/) between December 2008 and December 2023. 
 
-We identified 5,584,226 unique "error word → correct word" pairs. In total, 5,296,266 unique words were misspelled, which we corrected to a total of 1,530,329 words.
+We identified around 6 million unique "error word → correct word" pairs. In total, 5,296,266 unique words were misspelled, which we corrected to a total of 1.5 million words.
 
 The dataset is distributed as a gzipped tab-separated Unicode text file. Each file contains data for one year, and the file name is in the format “ispravime-YEAR.gz”. The rows of individual files are sorted by date (first column, YYYY-MM-DD) in ascending order. The dataset is updated every year when new files are added to the dataset.
 
